@@ -1,0 +1,14 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Editores de código
+.vscode/
+.idea/
+
+# Arquivos e diretórios Python
+__pycache__/
+*.pyc
+venv/
+.env
